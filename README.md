@@ -165,9 +165,3 @@ Each section has a **section guard cell** at the top that loads the required Dat
 ## Notes on Dataset Coverage
 
 The analysis uses approximately **1 M out of ~6 M total DBLP records** (the first portion of the XML file). This subset is dominated by `inproceedings` (~884 K) and contains very few `article` records (~12), since journal articles appear later in the XML. The 1 M cap was chosen to balance analytical depth with hardware constraints on a standard laptop.
-
----
-
-## License
-
-This project is released under the MIT License – see [LICENSE](LICENSE) for details.
