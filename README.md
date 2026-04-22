@@ -1,9 +1,5 @@
 # Nokia_DBLP_dataset_analysis
 
-[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 > **Nokia Data Engineer – Summer Trainee Recruitment Task**  
 > Comprehensive analysis of the DBLP bibliographic dataset using classical NLP, modern sentence embeddings, semantic search, RAG, and supervised ML.
 
@@ -59,7 +55,7 @@ Nokia_DBLP_dataset_analysis/
 │   ├── fig18_umap_tfidf_k7.png
 │   ├── fig19_umap_tfidf_lsa_k7.png
 │   ├── fig20_silhouette_tfidf.png
-│   ├── fig21_umap_tfidf_lsa_k7.png     # (UMAP – sentence embeddings)
+│   ├── fig21_umap_embeddings_k7.png
 │   ├── fig22_silhouette_emb.png
 │   ├── fig23_confusion_matrix.png
 │   ├── fig24_feature_importance.png
