@@ -1,0 +1,115 @@
+{
+    "mastersthesis": {
+        "found_tags": [
+            "title",
+            "author",
+            "school",
+            "note",
+            "ee",
+            "year"
+        ],
+        "example_title": "Regelbasierte Extraktion und asymmetrische Fusion bibliographischer Informationen."
+    },
+    "book": {
+        "found_tags": [
+            "title",
+            "ee",
+            "booktitle",
+            "editor",
+            "year",
+            "url",
+            "publisher",
+            "series",
+            "isbn"
+        ],
+        "example_title": "Computerization and Work, A Reader on Social Aspects of Computerization"
+    },
+    "incollection": {
+        "found_tags": [
+            "title",
+            "author",
+            "crossref",
+            "pages",
+            "booktitle",
+            "year",
+            "ee",
+            "url"
+        ],
+        "example_title": "Computers in Schools in the USA: A Social History."
+    },
+    "inproceedings": {
+        "found_tags": [
+            "title",
+            "author",
+            "crossref",
+            "pages",
+            "booktitle",
+            "year",
+            "ee",
+            "url"
+        ],
+        "example_title": "Methods and Tools for Automatic Construction of Ontologies from Textual Resources: A Framework for Comparison and Its Application."
+    },
+    "proceedings": {
+        "found_tags": [
+            "title",
+            "ee",
+            "booktitle",
+            "editor",
+            "year",
+            "url",
+            "publisher",
+            "volume",
+            "series",
+            "isbn"
+        ],
+        "example_title": "Recent Advances in Swarm Intelligence and Evolutionary Computation"
+    },
+    "phdthesis": {
+        "found_tags": [
+            "title",
+            "author",
+            "school",
+            "pages",
+            "ee",
+            "year",
+            "publisher",
+            "volume",
+            "series",
+            "isbn"
+        ],
+        "example_title": "An Inductive Logic Programming Approach to Statistical Relational Learning"
+    },
+    "www": {
+        "found_tags": [
+            "ee",
+            "year",
+            "title",
+            "author"
+        ],
+        "example_title": "DBLP.uni-trier.de: Computer Science Bibliography"
+    },
+    "article": {
+        "found_tags": [
+            "journal",
+            "title",
+            "author",
+            "month",
+            "year",
+            "volume"
+        ],
+        "example_title": "Interactive Support for Non-Programmers: The Relational and Network Approaches."
+    },
+    "data": {
+        "found_tags": [
+            "title",
+            "author",
+            "month",
+            "ee",
+            "year",
+            "publisher",
+            "stream"
+        ],
+        "example_title": "EMG Physical Action Data Set."
+    }
+}

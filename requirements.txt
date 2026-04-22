@@ -1,0 +1,12 @@
+lxml
+pandas
+pyarrow
+tqdm
+plotly
+matplotlib
+seaborn
+networkx
+scikit-learn
+plotly
+umap-learn
+sentence-transformers
