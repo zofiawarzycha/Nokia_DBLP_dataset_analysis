@@ -59,7 +59,7 @@ Nokia_DBLP_dataset_analysis/
 │   ├── fig18_umap_tfidf_k7.png
 │   ├── fig19_umap_tfidf_lsa_k7.png
 │   ├── fig20_silhouette_tfidf.png
-│   ├── fig21_umap_tfidf_lsa_k7.png     # (UMAP – sentence embeddings)
+│   ├── fig21_umap_embeddings_k7.png
 │   ├── fig22_silhouette_emb.png
 │   ├── fig23_confusion_matrix.png
 │   ├── fig24_feature_importance.png
@@ -172,6 +172,3 @@ The analysis uses approximately **1 M out of ~6 M total DBLP records** (the firs
 
 ---
 
-## License
-
-This project is released under the MIT License – see [LICENSE](LICENSE) for details.
