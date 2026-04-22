@@ -1,9 +1,9 @@
 {
-  "1": "Wireless Network Design",
-  "2": "Social Learning Analysis",
-  "3": "Computer Vision Detection",
-  "4": "Natural Language Processing",
-  "5": "Optimization Control Systems",
-  "6": "Cloud Security Computing",
-  "0": "Deep Learning & Neural Networks"
+  "0": "Deep Learning & Neural Networks",
+  "1": "Wireless & Optical Communications",
+  "2": "Social, Educational & Digital Research",
+  "3": "Computer Vision & Image Processing",
+  "4": "Natural Language Processing & LLMs",
+  "5": "Control Systems & Optimization",
+  "6": "Data Security & Cloud Computing"
 }

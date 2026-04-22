@@ -1,9 +1,9 @@
 {
-  "1": "Machine Learning",
-  "2": "Data Systems Analysis",
-  "3": "Neural Networks",
-  "4": "Object Detection",
-  "5": "Multi Agent Systems",
-  "6": "Model Based Control",
-  "0": "Large Language Models (LLMs)"
+  "0": "Large Language Models (LLMs)",
+  "1": "Machine & Reinforcement Learning",
+  "2": "System Analysis & Control Networks",
+  "3": "Deep & Convolutional Neural Networks",
+  "4": "Object & Anomaly Detection",
+  "5": "Multi-Agent & Multi-Objective Systems",
+  "6": "General Algorithms & Data Models"
 }
