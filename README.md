@@ -1,9 +1,5 @@
 # Nokia_DBLP_dataset_analysis
 
-[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 > **Nokia Data Engineer – Summer Trainee Recruitment Task**  
 > Comprehensive analysis of the DBLP bibliographic dataset using classical NLP, modern sentence embeddings, semantic search, RAG, and supervised ML.
 
@@ -169,6 +165,3 @@ Each section has a **section guard cell** at the top that loads the required Dat
 ## Notes on Dataset Coverage
 
 The analysis uses approximately **1 M out of ~6 M total DBLP records** (the first portion of the XML file). This subset is dominated by `inproceedings` (~884 K) and contains very few `article` records (~12), since journal articles appear later in the XML. The 1 M cap was chosen to balance analytical depth with hardware constraints on a standard laptop.
-
----
-
